@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/D/5th Semester/EE5260 - Hardware Description Language/Project/TrafficControlSystem/Traffic-Light-Control-System/TrafficControlSystem.srcs/sources_1/new/FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/D/5th Semester/EE5260 - Hardware Description Language/Project/TrafficControlSystem/Traffic-Light-Control-System/TrafficControlSystem.srcs/sources_1/new/PedestrianButton.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PedestrianButton
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/D/5th Semester/EE5260 - Hardware Description Language/Project/TrafficControlSystem/Traffic-Light-Control-System/TrafficControlSystem.srcs/sources_1/new/SensorDetector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SensorDetector
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/D/5th Semester/EE5260 - Hardware Description Language/Project/TrafficControlSystem/Traffic-Light-Control-System/TrafficControlSystem.srcs/sources_1/new/TrafficLightController.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TrafficLightController
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/D/5th Semester/EE5260 - Hardware Description Language/Project/TrafficControlSystem/Traffic-Light-Control-System/TrafficControlSystem.srcs/sim_1/new/TrafficLightController_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TrafficLightController_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/D/5th Semester/EE5260 - Hardware Description Language/Project/TrafficControlSystem/Traffic-Light-Control-System/TrafficControlSystem.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

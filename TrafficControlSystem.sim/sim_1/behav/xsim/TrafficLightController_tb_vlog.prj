@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../TrafficControlSystem.srcs/sources_1/new/FSM.v" \
+"../../../../TrafficControlSystem.srcs/sources_1/new/PedestrianButton.v" \
+"../../../../TrafficControlSystem.srcs/sources_1/new/SensorDetector.v" \
+"../../../../TrafficControlSystem.srcs/sources_1/new/TrafficLightController.v" \
+"../../../../TrafficControlSystem.srcs/sim_1/new/TrafficLightController_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

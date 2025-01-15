@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+Time=0 | Reset=1 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=10 | LT2=00 | LT3=00 | State= 0
+Time=10000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=10 | LT2=00 | LT3=00 | State= 0
+Time=130000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=10 | LT2=00 | LT3=00 | State= 1
+Time=214000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=01 | LT2=00 | LT3=00 | State= 2
+Time=258000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=00 | LT2=00 | LT3=10 | State= 3
+Time=322000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=00 | LT2=10 | LT3=00 | State= 4
+Time=446000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=00 | LT2=10 | LT3=00 | State= 5
+Time=530000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=00 | LT2=01 | LT3=00 | State= 6
+Time=574000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=10 | LT2=00 | LT3=00 | State= 0
+Time=580000 | Reset=0 | Pedestrian Button=1 | High Traffic Sensor=0 | LT1=10 | LT2=00 | LT3=00 | State= 0
+Time=600000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=10 | LT2=00 | LT3=00 | State= 0
+Time=698000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=10 | LT2=00 | LT3=00 | State= 1
+Time=782000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=01 | LT2=00 | LT3=00 | State= 2
+Time=826000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=00 | LT2=00 | LT3=10 | State= 3
+Time=890000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=00 | LT2=10 | LT3=00 | State= 4
+Time=920000 | Reset=1 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=10 | LT2=00 | LT3=00 | State= 0
+Time=940000 | Reset=0 | Pedestrian Button=0 | High Traffic Sensor=0 | LT1=10 | LT2=00 | LT3=00 | State= 0
